@@ -1,0 +1,22 @@
+{
+  "name": "E-Commerce Basic Theme",
+  "dataColors": [
+    "#1F4788",
+    "#5B9BD5",
+    "#70AD47",
+    "#ED7D31",
+    "#FFC000",
+    "#4472C4",
+    "#A5A5A5",
+    "#9E480E"
+  ],
+  "bad": "#C00000",
+  "neutral": "#FFC000",
+  "good": "#70AD47",
+  "maximum": "#1F4788",
+  "center": "#FFFFFF",
+  "minimum": "#C5D9F1",
+  "background": "#FFFFFF",
+  "foreground": "#404040",
+  "tableAccent": "#1F4788"
+}

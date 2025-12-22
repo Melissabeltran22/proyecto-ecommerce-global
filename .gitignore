@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de datos grandes (opcional, según tu caso)
+data/raw/*.xlsx
+data/raw/*.csv
+*.xls
+*.xlsm
+
+# Mantener estructura de carpetas vacías
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Power BI
+*.pbix
+powerbi/*.pbix
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
