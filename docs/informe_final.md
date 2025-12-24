@@ -4,17 +4,6 @@ author: "Eilen Melissa Beltran Colon"
 date: "Diciembre 2025"
 subtitle: "Especialización en Analítica de Datos y Big Data"
 institution: "Universidad de Cataluña"
----
-
----
-title: "Análisis Global de E-Commerce: Integración de Múltiples Fuentes de Datos"
-author: "Melissa [Apellido]"
-date: "Diciembre 2024"
-subtitle: "Especialización en Data Analysis y Big Data"
-institution: "Universidad de Cataluña"
----
-
-\newpage
 
 # RESUMEN EJECUTIVO
 
