@@ -41,8 +41,8 @@ data/raw/*.csv
 !data/processed/.gitkeep
 
 # Power BI
-*.pbix
-powerbi/*.pbix
+#*.pbix
+#powerbi/*.pbix
 
 # Archivos temporales
 *.tmp
