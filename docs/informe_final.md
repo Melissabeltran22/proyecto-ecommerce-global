@@ -1468,7 +1468,7 @@ requests==2.31.0
 scipy==1.11.4
 ```
 
-### Estructura de Carpetas Completa
+
 ```
 proyecto-ecommerce-global/
 ├── .git/
@@ -1486,7 +1486,7 @@ proyecto-ecommerce-global/
 │   └── processed/
 │       ├── .gitkeep
 │       ├── fact_sales.csv
-│       ├── dim_products.csv
+│       ### Estructura de Carpetas Completa├── dim_products.csv
 │       ├── dim_customers.csv
 │       ├── dim_date.csv
 │       ├── integrated_analysis.csv
