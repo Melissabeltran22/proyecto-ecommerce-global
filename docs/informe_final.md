@@ -4,6 +4,9 @@ author: "Eilen Melissa Beltran Colon"
 date: "Diciembre 2025"
 subtitle: "Especialización en Analítica de Datos y Big Data"
 institution: "Universidad de Cataluña"
+---
+
+
 
 # RESUMEN EJECUTIVO
 
